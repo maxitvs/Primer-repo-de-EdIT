@@ -1,0 +1,12 @@
+p {
+    color: red;
+    font-family: "Montserrat";
+    font-size: 13px;
+    font-weight: 900 ;
+    font-style: italic;
+    text-align: left ;
+    text-decoration: none;
+    line-height: normal;
+    letter-spacing: 1px;
+    background-color: bisque;
+}
