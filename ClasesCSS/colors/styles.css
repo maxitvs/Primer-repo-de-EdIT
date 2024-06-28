@@ -1,0 +1,6 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: hsl(hue, saturation, lightness);
+    margin: 20px;
+}
